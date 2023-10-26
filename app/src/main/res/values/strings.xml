@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">utfps_project</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="or">OR</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="sign_in2">Sign in</string>
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="sign_up2">Sign up</string>
+</resources>
