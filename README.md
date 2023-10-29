@@ -1,4 +1,4 @@
-Milestone 2: Prototype, Evaluation, and Recommendations <br>
+Milestone 2: Prototype, Evaluation, and Recommendations
 ======
 Tsan Tsao <br>
 Auckland University of Technology <br>
