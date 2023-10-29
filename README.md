@@ -8,7 +8,7 @@ Dr. Matthew Kuo <br>
 October 29, 2023 <br>
 
 # 1. Downloading the Code
-
+By clicking the links provided in the appendix, you can directly access the repository page.
 
 
 
