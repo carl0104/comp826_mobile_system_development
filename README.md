@@ -19,9 +19,9 @@ As shown in the above image, these are all the files inside the folder. <br>
 In the top left corner of the Android Studio interface, click on 'File', select 'Open...', navigate to the folder where the project is located, click 'OK', and the project will be opened. <br>
 ![190453](images/190453.png) <br>
 
+# 3. Download the Virtual Device
+In the toolbar at the top right of Android Studio, select the icon indicated by the red circle (Device Manager) and click on it. <br>
+![190719](images/190719.png) <br>
 
 
-
-
-
-
+![190759](images/190759.png) <br>
