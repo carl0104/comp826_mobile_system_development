@@ -10,7 +10,7 @@ October 29, 2023 <br>
 # 1. Downloading the Code
 By clicking the links provided in the appendix, you can directly access the repository page.
 ![182355](images/182355.png)
-
+Click the green 'Code' button in the upper right corner, then select 'Download ZIP' to download the entire project's compressed file to your local machine.
 
 
 
