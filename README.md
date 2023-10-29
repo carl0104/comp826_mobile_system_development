@@ -24,3 +24,16 @@ In the toolbar at the top right of Android Studio, select the icon indicated by 
 ![190719](images/190719.png) <br>
 In the development of this project, I chose Pixel 3a as the virtual device. In the device selection, choose 'Pixel 3a API 34' and download. This might take a while, depending on your network conditions. <br>
 ![190759](images/190759.png) <br>
+
+# 4. Launch the Android Virtual Device (AVD) and Run the Program
+
+![191739](images/191739.png) <br>
+
+
+
+
+
+
+
+
+
