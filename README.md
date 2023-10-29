@@ -30,7 +30,7 @@ In the development of this project, I chose Pixel 3a as the virtual device. In t
 First, click on the start button of the virtual device. A window will pop up, simulating the Pixel 3a phone. <br>
 ![192138](images/192138.png) <br>
 After the Android virtual device has started, click the green 'Run app' button or use the shortcut 'Shift + F10' to launch the application. <br>
-
+![192537](images/192537.png) <br>
 
 
 
