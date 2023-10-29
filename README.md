@@ -16,8 +16,8 @@ Click the green 'Code' button in the upper right corner, then select 'Download Z
 As shown in the above image, these are all the files inside the folder. <br>
 
 # 2. Open the Project Using Android Studio
-
-
+In the top left corner of the Android Studio interface, click on 'File', select 'Open...', navigate to the folder where the project is located, click 'OK', and the project will be opened. <br>
+![190453](images/190453.png) <br>
 
 
 
