@@ -32,6 +32,6 @@ First, click on the start button of the virtual device. A window will pop up, si
 After the Android virtual device has started, click the green 'Run app' button or use the shortcut 'Shift + F10' to launch the application. <br>
 ![192537](images/192537.png) <br>
 The detailed demonstration video has been uploaded to YouTube. Here is the link: https://youtube.com/shorts/fEAX3Xcorvs?feature=share <br>
-
+For more detailed information, please refer to the documentation.
 
 
