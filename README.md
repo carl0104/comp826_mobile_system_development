@@ -1,2 +1,2 @@
-# comp826_mobile_system_development
-# todo: add discription
+Milestone 2: Prototype, Evaluation and Recommendations
+======
