@@ -22,6 +22,5 @@ In the top left corner of the Android Studio interface, click on 'File', select 
 # 3. Download the Virtual Device
 In the toolbar at the top right of Android Studio, select the icon indicated by the red circle (Device Manager) and click on it. <br>
 ![190719](images/190719.png) <br>
-
-
+In the development of this project, I chose Pixel 3a as the virtual device. In the device selection, choose 'Pixel 3a API 34' and download. This might take a while, depending on your network conditions. <br>
 ![190759](images/190759.png) <br>
